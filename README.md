@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Moin Uddin 👋
 
-<!--
-**miumoin/miumoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full‑stack developer who loves to help founders launch fast — I build practical, production-ready apps and enjoy moving ideas to market quickly. Friendly and playful.
 
-Here are some ideas to get you started:
+- Twitter: [@tlcright](https://twitter.com/tlcright)  
+- LinkedIn: [Moin Uddin](https://www.linkedin.com/in/moin-uddin-1550a314/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I do
+- Ship full‑stack web apps, APIs, and MVPs.
+- Take on fractional CTO roles to help early teams set technical direction.
+
+## 🛠️ Tech
+MySQL · React · JavaScript · PHP · Golang
+
+## ⚡ Fun
+I love running and cycling — always up for a new route or race!
